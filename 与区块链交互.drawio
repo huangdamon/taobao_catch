@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T12:35:43.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="22.0.8" etag="efD5z_oQ8b1o6ZkRhF5r" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T13:30:31.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="-AtkpfFu9DK1Gduuw2HI" version="22.0.8" type="github">
   <diagram name="Page-1" id="kQ5uL-77E__ujkewrMcx">
-    <mxGraphModel>
+    <mxGraphModel dx="1260" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O_4munZuemZWJWQ_Ezws-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O_4munZuemZWJWQ_Ezws-20" value="参与方A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="255" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_4munZuemZWJWQ_Ezws-21" value="参与方B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="255" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_4munZuemZWJWQ_Ezws-22" value="参与方C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="255" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_4munZuemZWJWQ_Ezws-23" value="数据A" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O_4munZuemZWJWQ_Ezws-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O_4munZuemZWJWQ_Ezws-25" value="参与方A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="355" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_4munZuemZWJWQ_Ezws-26" value="参与方B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="355" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_4munZuemZWJWQ_Ezws-28" value="数据B" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="50" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
