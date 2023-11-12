@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T06:35:21.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="cDxnBeQxY3gwhxYbv1-j" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T06:35:37.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TUNg_SIOzeQMsEYqbehp" version="21.7.5" type="github">
   <diagram name="Page-1" id="GoQh4Jn4SZapPQWumciH">
     <mxGraphModel dx="1566" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="neCtC8h_1FU_e-2Af9mW-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;指示提单验证业务流程图&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="neCtC8h_1FU_e-2Af9mW-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;指示提单验证业务流程图（优化后）&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="119" y="50" width="420" height="390" as="geometry" />
         </mxCell>
         <mxCell id="neCtC8h_1FU_e-2Af9mW-2" value="客户服务部" style="swimlane;html=1;startSize=20;" vertex="1" parent="neCtC8h_1FU_e-2Af9mW-1">
