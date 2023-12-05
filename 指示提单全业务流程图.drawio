@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T12:43:58.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jdKceBkWSOd_8OM0EzmH" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T12:44:07.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3WKW08t7KGonLeiVYMH8" version="22.1.5" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1674" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
         <mxCell id="6bvnDMSqNQKq__3f3zK5-16" value="提单验证&lt;br&gt;丨&lt;br&gt;辅助活动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="590" width="30" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="862FB2KyWgNHRLXfu8CQ-2" value="提&lt;br&gt;单&lt;br&gt;流转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="862FB2KyWgNHRLXfu8CQ-2" value="提&lt;br&gt;单&lt;br&gt;流&lt;br&gt;转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="490" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
